@@ -176,3 +176,17 @@ WTForms==2.0.1
 xlrd==0.9.3
 Yapsy==1.10.423
 ```
+
+```
+autoconf	cowsay		git		json-c		libtool		mpfr		postgis		sip
+automake	eigen		glib		libevent	libxml2		open-mpi	postgresql	sqlite
+bison		fontconfig	gmp		libffi		libxslt		openexr		proj		tbb
+boost		freetype	gpp		libgeotiff	libzip		openssl		protobuf	tmux
+boost-build	freexl		graphviz	libiconv	lua		osm-pbf		protobuf-c	unixodbc
+brew-cask	gcc		gsl		liblwgeom	luabind		osm2pgsql	pyqt		youtube-dl
+cairo		gdal		hadoop		libmpc		luajit		osmosis		python
+casperjs	gdbm		ilmbase		libpng		lzlib		ossp-uuid	qt
+cgal		geos		isl		libspatialite	maven		phantomjs	readline
+cloog		gettext		jpeg		libstxxl	mercurial	pixman		sbt
+cmake		giflib		jq		libtiff		mongodb		pkg-config	sfcgal
+```
